@@ -1,0 +1,17 @@
+[
+  {
+    "key": "target_domain",
+    "type": "string",
+    "defaultValue": "lyu.my.id"
+  },
+  {
+    "key": "static_port",
+    "type": "string",
+    "defaultValue": "43210"
+  },
+  {
+    "key": "override_domains",
+    "type": "string",
+    "defaultValue": "growtopia1.com,growtopia2.com"
+  }
+]
